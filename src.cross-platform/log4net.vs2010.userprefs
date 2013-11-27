@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="log4net.ClientProfile.vs2010/Util/SystemInfo.cs">
+    <Files>
+      <File FileName="../tests/src/Appender/AdoNetAppenderTest.cs" Line="44" Column="13" />
+      <File FileName="XSample.log4net.XamarinAndroid/Resources/Resource.Designer.cs" Line="1" Column="1" />
+      <File FileName="log4net.ClientProfile.vs2010/Util/SystemInfo.cs" Line="1011" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="XSample.log4net.XamarinAndroid" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XSample.log4net.XamarinAndroid MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
